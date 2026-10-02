@@ -1,0 +1,12 @@
+- [ ] Setup Latex build
+  - [ ] Setup Mendeley
+  - [ ] Setup Nvim
+- [ ] Read [Superwing](https://pmc.ncbi.nlm.nih.gov/articles/PMC13427721/)
+- [ ] Read [Performance Evaluation of a Graph Neural Network-Augmented Multi-Fidelity Workflow for Predicting Aerodynamic Coefficients on Delta Wings at Low Speed](https://doi.org/10.2514/6.2025-2360)
+- [ ] Download data for Superwing
+- [ ] Process data for Superwing to scale down for use with mf-vortexnet
+- [ ] Setup mf-vortexnet
+- [ ] mod mf-vortexnet layers to use with superwing
+- [ ] train mf-vortexnet on superwing with pretraining
+- [ ] train mf-vortexnet on superwing with from scratch
+- [ ] Start writing paper
